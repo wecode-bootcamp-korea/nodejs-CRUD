@@ -6,8 +6,8 @@ export const list = (req, res) => {
 
 export const detail = (req, res) => {
   const { id } = req.params;
-  const detailData = productsData.data
-    .filter((product) => product.id.toString().includes(id))
-    .map((product) => product);
+  const detailData = productsData.data.filter(
+    (product) => product.id.toString() === id
+  );
   res.send(detailData);
 };

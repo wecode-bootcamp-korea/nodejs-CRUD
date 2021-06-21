@@ -15,6 +15,14 @@
       "category": "에스프레소",
       "description": "진한 에스프레소에 시원한 정수물과 얼음을 더하여 스타벅스의 깔끔하고 강렬한 에스프레소를 가장 부드럽고 시원하게 즐길 수 있는 커피",
       "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2015/08/[110563]_20150813222100303.jpg"
+    },
+    {
+      "id": 32,
+      "koreanName": "제주 유기농 말차로 만든 라떼",
+      "englishName": "Malcha Latte from Jeju Organic farm",
+      "category": "티",
+      "description": "차광재배한 어린 녹찻잎을 곱게 갈아 깊고 진한 말차 본연의 맛과 향을 부드럽게 즐길 수 있는 제주 유기농 말차로 만든 라떼",
+      "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[9200000002496]_20210419131039504.jpg"
     }
   ]
 }
